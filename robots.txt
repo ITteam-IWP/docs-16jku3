@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-9l2yzd.resultafacil.com.br/sitemap.xml
